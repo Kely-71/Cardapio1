@@ -1,0 +1,18 @@
+body {
+    color: rgb(3, 14, 24);
+    background-color: aquamarine;
+    text-align: center;
+    font-size:x-large;
+}
+
+header img{
+width: 500px;
+height: 400px;
+text-align: center;
+}
+
+ul{
+    image-orientation: inherit;
+}
+
+
